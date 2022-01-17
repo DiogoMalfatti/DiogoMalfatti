@@ -1,8 +1,20 @@
-## Olá PessoAll ! Eu sou o Diogo Malfatti 👋
+## Olá PessoAll ! Eu sou o <span style ="color: #00ffff "><b>Diogo Malfatti</b></span> 👋
 
-### Eu sou Desenvolvedor Front End | Instrutor
+### Eu sou Desenvolvedor <span style ="color: #00ffff "><b>Front End</b></span> | <span style ="color: #00ffff "><b>Instrutor</b></span>
 
-### Sejam bem vindos ao meu Portfólio
+### Tecnólogo em Gestão de <span style ="color: #00ffff "><b>Tecnologia da Informação</b></span>
+
+### Sejam bem vindos ao meu <span style ="color: #00ffff "><b>Portfólio</b></span>
+
+##### ✔ OpenToWork 📳 primeiro contato pelo LinkedIn
+
+#
+
+## Apresentação
+
+<div>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/HbaneIwNZLA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diogomalfatti/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DiogoMalfatti)
@@ -10,7 +22,15 @@
 
 ![Diogo Malfatti GitHub stats](https://github-readme-stats.vercel.app/api?username=diogoMalfatti&show_icons=true&theme=dracula)
 
-## Tecnologias que eu uso no meu dia :
+## Atualmente estou :
+
+### => Trabalhando como Instrutor
+
+### => IGTI - Instituto de Gestão da Informação
+
+### => <a href="https://www.igti.com.br/bootcamp/programador-software-iniciante">Bootcamp Programador(a) de Software Inicante</a>
+
+### => Tecnologias que eu uso no meu dia :
 
 <div style="display: inline_block"><br />
   <img align="center" alt="html5"
@@ -27,4 +47,10 @@
   src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 </div><br />
 
-### teste
+### Certificado Formação Front End Alura :
+
+<div style="display: inline_block" ><br />
+  <img align="center" alt="html5"
+  src="https://raw.githubusercontent.com/DiogoMalfatti/DiogoMalfatti/main/certificados_IMG/certificadoAluraFull01.png" width="211" height="311" />
+  <img align="center" alt="html5"
+  src="https://raw.githubusercontent.com/DiogoMalfatti/DiogoMalfatti/main/certificados_IMG/certificadoAluraFull02.png" width="211" height="311" />
