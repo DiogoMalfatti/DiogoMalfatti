@@ -1,10 +1,10 @@
 # Olá PessoAll ! Eu sou o <span style="color:#00ffff "><b>Diogo Malfatti</b></span> 👋
 
-## Eu sou Desenvolvedor <span style="color:#00ffff "><b>Front End</b></span> | <span style ="color: #00ffff "><b>Instrutor</b></span>
+### Eu sou Desenvolvedor <span style="color:#00ffff "><b>Front End</b></span> | <span style ="color: #00ffff "><b>Instrutor</b></span>
 
-## Tecnólogo em Gestão de <span style="color:#00ffff "><b>Tecnologia da Informação</b></span>
+### Tecnólogo em Gestão de <span style="color:#00ffff "><b>Tecnologia da Informação</b></span>
 
-## Sejam bem vindos ao meu <span style="color:#00ffff "><b>Portfólio</b></span>
+### Sejam bem vindos ao meu <span style="color:#00ffff "><b>Portfólio</b></span>
 
 <br />
 
@@ -44,8 +44,6 @@
 <img align="center" alt="java"
   src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 </div><br />
-
-#
 
 ## Portfólio
 
