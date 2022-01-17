@@ -1,30 +1,30 @@
-## Olá PessoAll ! Eu sou o <span style ="color: #00ffff "><b>Diogo Malfatti</b></span> 👋
+# Olá PessoAll ! Eu sou o <span style="color:#00ffff "><b>Diogo Malfatti</b></span> 👋
 
-### Eu sou Desenvolvedor <span style ="color: #00ffff "><b>Front End</b></span> | <span style ="color: #00ffff "><b>Instrutor</b></span>
+## Eu sou Desenvolvedor <span style="color:#00ffff "><b>Front End</b></span> | <span style ="color: #00ffff "><b>Instrutor</b></span>
 
-### Tecnólogo em Gestão de <span style ="color: #00ffff "><b>Tecnologia da Informação</b></span>
+## Tecnólogo em Gestão de <span style="color:#00ffff "><b>Tecnologia da Informação</b></span>
 
-### Sejam bem vindos ao meu <span style ="color: #00ffff "><b>Portfólio</b></span>
+## Sejam bem vindos ao meu <span style="color:#00ffff "><b>Portfólio</b></span>
+
+<br />
 
 ##### ✔ OpenToWork 📳 primeiro contato pelo LinkedIn
 
-#
-
-## Apresentação
-
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://www.youtube.com/watch?v=HbaneIwNZLA&t=6s)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diogomalfatti/)
+<br />[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diogomalfatti/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DiogoMalfatti)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCrCyD0WocG8gwz9E2W5QN_A)
 
-![Diogo Malfatti GitHub stats](https://github-readme-stats.vercel.app/api?username=diogoMalfatti&show_icons=true&theme=dracula)
+## Apresentação
+
+[![Watch the video](https://raw.githubusercontent.com/DiogoMalfatti/DiogoMalfatti/main/imagens/homePortifolio1366x75.png)](https://www.youtube.com/watch?v=HbaneIwNZLA&t=6s)
 
 ## Atualmente estou :
 
 ### => Trabalhando como Instrutor
 
 ### => IGTI - Instituto de Gestão da Informação
+
+### => período : Noturno | local: Remoto | modelo: PJ
 
 ### => <a href="https://www.igti.com.br/bootcamp/programador-software-iniciante">Bootcamp Programador(a) de Software Inicante</a>
 
@@ -45,10 +45,10 @@
   src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 </div><br />
 
-### Certificado Formação Front End Alura :
+#
 
-<div style="display: inline_block" ><br />
-  <img align="center" alt="html5"
-  src="https://raw.githubusercontent.com/DiogoMalfatti/DiogoMalfatti/main/certificados_IMG/certificadoAluraFull01.png" width="211" height="311" />
-  <img align="center" alt="html5"
-  src="https://raw.githubusercontent.com/DiogoMalfatti/DiogoMalfatti/main/certificados_IMG/certificadoAluraFull02.png" width="211" height="311" />
+## Portfólio
+
+![Diogo Malfatti GitHub stats](https://github-readme-stats.vercel.app/api?username=diogoMalfatti&show_icons=true&theme=dracula)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diogomalfatti&langs_count=7)](https://github.com/DiogoMalfatti?tab=repositories)
