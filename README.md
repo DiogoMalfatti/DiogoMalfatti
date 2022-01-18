@@ -12,13 +12,9 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DiogoMalfatti)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCrCyD0WocG8gwz9E2W5QN_A)
 
-<br/>
-
 #
 
-<br/>
-
-## Apresentação
+## 📺 Apresentação
 
 <br/>
 
@@ -30,7 +26,7 @@
 
 <br/>
 
-## Atualmente estou :
+## 📌 Atualmente estou :
 
 ### => Trabalhando como Instrutor
 
@@ -66,14 +62,29 @@
 
 #
 
-## Portfólio
+## 💻 Portfólio
 
 <br/>
 
 <div>
   <a href="https://github.com/DiogoMalfatti?tab=repositories">
 
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=diogoMalfatti&show_icons=true&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diogoMalfatti&show_icons=true&theme=dracula"/>
 
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogomalfatti&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogomalfatti&layout=compact&langs_count=16&theme=dracula"/>
 </div>
+
+<br/>
+
+## 📂 Meus Projetos de 2021 :
+
+<br />
+
+<h2>
+  <a href="https://instalura-diogomalfatti.vercel.app/"> 🌎 instalura-diogomalfatti.vercel.app/</a>
+</h2>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=diogomalfatti&repo=instalura)](https://github.com/DiogoMalfatti/instalura)
+<img height="120em" src="https://raw.githubusercontent.com/DiogoMalfatti/DiogoMalfatti/main/imagens/homePortifolio1366x75.png" />
+
+#
