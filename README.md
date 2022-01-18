@@ -85,6 +85,6 @@
 </h2>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=diogomalfatti&repo=instalura)](https://github.com/DiogoMalfatti/instalura)
-<img height="120em" src="https://raw.githubusercontent.com/DiogoMalfatti/DiogoMalfatti/main/imagens/homePortifolio1366x75.png" />
+<img height="120em" src="https://raw.githubusercontent.com/DiogoMalfatti/DiogoMalfatti/main/imagens/instalura1280.png" />
 
 #
