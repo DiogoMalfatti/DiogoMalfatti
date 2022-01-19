@@ -8,7 +8,9 @@
 
 ### ✔ OpenToWork 📳 primeiro contato pelo LinkedIn
 
-<br />[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diogomalfatti/)
+<br />
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diogomalfatti/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DiogoMalfatti)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCrCyD0WocG8gwz9E2W5QN_A)
 
@@ -365,6 +367,9 @@
 </h3>
 <h3>
   <a href="https://malfatti-portifolio.herokuapp.com/"> 🌎 https://malfatti-portifolio.herokuapp.com/</a>
+
+⚠ Este projeto está encerrado não receberá novas atualizações.
+
 </h3>
 
 ### Tecnologias usadas no Front End
