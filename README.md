@@ -178,23 +178,6 @@
 <h3>
   ⚙  Projeto Desafio 5 projetos em 5 dias - React 
 </h3>
-<h3>
-  <a href="https://diogomalfatti.github.io/todo-list/"> 🌎 https://diogomalfatti.github.io/todo-list/</a>
-</h3>
-<h3>
-  <a href="https://diogomalfatti.github.io/expense-tracker/"> 🌎 https://diogomalfatti.github.io/expense-tracker/</a>
-</h3>
-<h3>
-  <a href="https://diogomalfatti.github.io/gallery/"> 🌎 https://diogomalfatti.github.io/gallery/</a>
-</h3>
-<h3>
-  <a href="https://diogomalfatti.github.io/rpg-react/"> 🌎 https://diogomalfatti.github.io/rpg-react/</a>
-</h3>
-<h3>
-  <a href="https://diogomalfatti.github.io/multiform/"> 🌎 https://diogomalfatti.github.io/multiform/</a>
-</h3>
-
-<br />
 
 ### Tecnologias usadas nos projetos
 
@@ -213,3 +196,46 @@
   src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 <img align="center" alt="react"
   src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+
+<br />
+<h3>
+  <a href="https://diogomalfatti.github.io/todo-list/"> 🌎 https://diogomalfatti.github.io/todo-list/</a>
+</h3>
+<img height="200em" src="https://raw.githubusercontent.com/DiogoMalfatti/DiogoMalfatti/main/imagens/todoList1280.png" />
+<h3>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=diogomalfatti&repo=todo-list)](https://github.com/DiogoMalfatti/todo-list)
+<a href="https://diogomalfatti.github.io/expense-tracker/"> 🌎 https://diogomalfatti.github.io/expense-tracker/</a>
+
+</h3>
+<img height="200em" src="https://raw.githubusercontent.com/DiogoMalfatti/DiogoMalfatti/main/imagens/expenseTracker1280.png" />
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=diogomalfatti&repo=expense-tracker)](https://github.com/DiogoMalfatti/expense-tracker)
+
+<h3>
+  <a href="https://diogomalfatti.github.io/gallery/"> 🌎 https://diogomalfatti.github.io/gallery/</a>
+</h3>
+<img height="200em" src="https://raw.githubusercontent.com/DiogoMalfatti/DiogoMalfatti/main/imagens/galley1280.png" />
+<h3>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=diogomalfatti&repo=gallery)](https://github.com/DiogoMalfatti/gallery)
+
+<a href="https://diogomalfatti.github.io/rpg-react/"> 🌎 https://diogomalfatti.github.io/rpg-react/</a>
+
+</h3>
+<img height="200em" src="https://raw.githubusercontent.com/DiogoMalfatti/DiogoMalfatti/main/imagens/rpgReact1280.png" />
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=diogomalfatti&repo=rpg-react)](https://github.com/DiogoMalfatti/rpg-react)
+
+<h3>
+<a href="https://diogomalfatti.github.io/multiform/"> 🌎 https://diogomalfatti.github.io/multiform/</a>
+</h3>
+<img height="200em" src="https://raw.githubusercontent.com/DiogoMalfatti/DiogoMalfatti/main/imagens/multiform1280.png" />
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=diogomalfatti&repo=multiform)](https://github.com/DiogoMalfatti/multiform)
+
+<br />
+
+#
+
+## proximo projeto
