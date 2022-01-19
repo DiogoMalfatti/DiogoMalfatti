@@ -306,7 +306,7 @@
 
 <br />
 
-<img height="200em" src="https://raw.githubusercontent.com/DiogoMalfatti/DiogoMalfatti/main/imagens/oringinSix1280.png" />
+<img height="200em" src="https://raw.githubusercontent.com/DiogoMalfatti/DiogoMalfatti/main/imagens/bikcraft1280.png" />
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=diogomalfatti&repo=bikcraft)](https://github.com/DiogoMalfatti/bikcraft)
 
@@ -330,7 +330,7 @@
 
 <br />
 
-<img height="200em" src="https://raw.githubusercontent.com/DiogoMalfatti/DiogoMalfatti/main/imagens/oringinSix1280.png" />
+<img height="200em" src="https://raw.githubusercontent.com/DiogoMalfatti/DiogoMalfatti/main/imagens/flexblog1280.png" />
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=diogomalfatti&repo=flexblog)](https://github.com/DiogoMalfatti/flexblog)
 
@@ -354,7 +354,7 @@
 
 <br />
 
-<img height="200em" src="https://raw.githubusercontent.com/DiogoMalfatti/DiogoMalfatti/main/imagens/oringinSix1280.png" />
+<img height="200em" src="https://raw.githubusercontent.com/DiogoMalfatti/DiogoMalfatti/main/imagens/wildbeast1280.png" />
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=diogomalfatti&repo=wildbeast)](https://github.com/DiogoMalfatti/wildbeast)
 
