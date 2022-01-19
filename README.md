@@ -12,15 +12,13 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DiogoMalfatti)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCrCyD0WocG8gwz9E2W5QN_A)
 
-#
-
-## 📺 Apresentação
+## 📺 Apresentação :
 
 <br/>
 
 [![Watch the video](https://raw.githubusercontent.com/DiogoMalfatti/DiogoMalfatti/main/imagens/homePortifolio1366x75.png)](https://www.youtube.com/watch?v=HbaneIwNZLA&t=6s)
 
-#
+<br />
 
 ## 📌 Atualmente estou :
 
@@ -35,9 +33,6 @@
 ### => Tecnologias que eu uso no meu dia :
 
 <div style="display: inline_block"><br />
-
-  <!-- <img align="center" alt="html5" height="30" width="40"
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" /> -->
 
 <img align="center" alt="html5"
   src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -56,9 +51,7 @@
 
 <br />
 
-#
-
-## 💻 Portfólio
+## 💻 Portfólio :
 
 <br/>
 
@@ -72,7 +65,7 @@
 
 <br/>
 
-## 📂 Meus Projetos de 2021
+## 💻 Portfólio > 📂 Meus Projetos de 2021 :
 
 <h3>
   ⚙  Projeto Instalura
@@ -118,8 +111,6 @@
 <h3>
   <a href="https://diogomalfatti.github.io/web_heat/"> 🌎 https://diogomalfatti.github.io/web_heat/</a>
 </h3>
-
-<br />
 
 ### Tecnologias usadas no Front End
 
@@ -198,6 +189,7 @@
   src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 
 <br />
+
 <h3>
   <a href="https://diogomalfatti.github.io/todo-list/"> 🌎 https://diogomalfatti.github.io/todo-list/</a>
 </h3>
@@ -205,6 +197,7 @@
 <h3>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=diogomalfatti&repo=todo-list)](https://github.com/DiogoMalfatti/todo-list)
+
 <a href="https://diogomalfatti.github.io/expense-tracker/"> 🌎 https://diogomalfatti.github.io/expense-tracker/</a>
 
 </h3>
