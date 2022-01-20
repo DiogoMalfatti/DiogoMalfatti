@@ -11,15 +11,16 @@
 <br />
 
 <h3>
-  <a href="https://github.com/DiogoMalfatti/DiogoMalfatti/blob/main/CV/CV_Front_DiogoMalfatti_v3jan22.pdf" download> 📥 download CV</a>
-</h3>
+
+[![DownloadCV](https://img.shields.io/github/downloads/DiogoMalfatti/DiogoMalfatti/total.svg)](https://github.com/DiogoMalfatti/DiogoMalfatti/blob/main/CV/CV_Front_DiogoMalfatti_v3jan32.pdf)<a href="https://github.com/DiogoMalfatti/DiogoMalfatti/blob/main/CV/CV_Front_DiogoMalfatti_v3jan22.pdf" download> CV_Front_DiogoMalfatti_v3jan22.pdf</a>
+
+</h2>
 
 <br />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diogomalfatti/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DiogoMalfatti)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCrCyD0WocG8gwz9E2W5QN_A)
-[![DownloadCV](https://img.shields.io/github/downloads/DiogoMalfatti/DiogoMalfatti/total.svg)](https://github.com/DiogoMalfatti/DiogoMalfatti/blob/main/CV/CV_Front_DiogoMalfatti_v3jan22.pdf)
 
 ## 📺 Apresentação :
 
