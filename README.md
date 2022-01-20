@@ -22,9 +22,16 @@
 
 ## 📺 Apresentação :
 
+<h3>
+  ⚙  Apresentando meu portfólio (pitch)
+</h3>
+<h3>
+  <a href="https://www.youtube.com/watch?v=IAGyyEnh3eQ&t=29s"> 🌎 https://www.youtube.com/watch?v=IAGyyEnh3eQ&t=29s</a>
+</h3>
+
 <br/>
 
-[![Watch the video](https://raw.githubusercontent.com/DiogoMalfatti/DiogoMalfatti/main/imagens/homePortifolio1366x75.png)](https://www.youtube.com/watch?v=HbaneIwNZLA&t=6s)
+[![Watch the video](https://raw.githubusercontent.com/DiogoMalfatti/DiogoMalfatti/main/imagens/cardPitch1280.png)](https://www.youtube.com/watch?v=IAGyyEnh3eQ&t=29s)
 
 <br />
 
