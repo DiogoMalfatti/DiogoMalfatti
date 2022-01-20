@@ -8,8 +8,6 @@
 
 ### ✔ OpenToWork 📳 primeiro contato pelo LinkedIn
 
-<br />
-
 <h3>
 
 [![DownloadCV](https://img.shields.io/github/downloads/DiogoMalfatti/DiogoMalfatti/total.svg)](https://github.com/DiogoMalfatti/DiogoMalfatti/blob/main/CV/CV_Front_DiogoMalfatti_v3jan32.pdf)<a href="https://github.com/DiogoMalfatti/DiogoMalfatti/blob/main/CV/CV_Front_DiogoMalfatti_v3jan22.pdf" download> CV_Front_DiogoMalfatti_v3jan22.pdf</a>
