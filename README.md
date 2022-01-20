@@ -31,7 +31,7 @@
 
 <br/>
 
-[![Watch the video](https://raw.githubusercontent.com/DiogoMalfatti/DiogoMalfatti/main/imagens/cardPitch1280.png)](https://www.youtube.com/watch?v=IAGyyEnh3eQ&t=29s)
+<img height="200em" src="https://raw.githubusercontent.com/DiogoMalfatti/DiogoMalfatti/main/imagens/cardPitchYouTube1280.png" />
 
 <br />
 
