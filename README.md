@@ -1,16 +1,22 @@
 # Olá PessoAll ! Eu sou o <b><span style="color: #00ffff ">Diogo Malfatti</span></b> 👋
 
+### Eu sou Desenvolvedor <span style="color:#00ffff "><b>Full Stack</b></span> | <span style ="color: #00ffff "><b>Professor Tutor</b></span>
+
 ### Formado como Tecnólogo em Gestão de <span style="color:#00ffff "><b>Tecnologia da Informação</b></span>
 
-### Eu sou Desenvolvedor <span style="color:#00ffff "><b>Front End</b></span> | <span style ="color: #00ffff "><b>Instrutor</b></span>
+<h3>Atualmente cursando
+  <a href=# >
+    Pós-Graduação em Desenvolvimento Full Stack
+  </a>
+</h3>
 
 ### Sejam bem vindos ao meu <span style="color:#00ffff "><b>Portfólio</b></span>
 
-### ✔ OpenToWork 📳 primeiro contato pelo LinkedIn
+### ✔ OpenToWork 📳 
 
 <h3>
   <a href="https://github.com/DiogoMalfatti/DiogoMalfatti/blob/main/CV/CV_Front_DiogoMalfatti_v1abr22.pdf" download target="blank">
-    📥 CV_Front_DiogoMalfatti_v1abr22.pdf
+    📥 CV_Front_DiogoMalfatti_v1abr22.pdf - atualizar cv !!
   </a>
 </h3>
 
@@ -20,30 +26,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DiogoMalfatti)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCrCyD0WocG8gwz9E2W5QN_A)
 
-## 📺 Apresentação :
-
-<h3>
-  ⚙  Apresentando meu portfólio (pitch)
-</h3>
-<h3>
-  <a href="https://www.youtube.com/watch?v=IAGyyEnh3eQ&t=29s"> 🌎 https://www.youtube.com/watch?v=IAGyyEnh3eQ&t=29s</a>
-</h3>
-
-<br/>
-
-<img height="200em" src="https://raw.githubusercontent.com/DiogoMalfatti/DiogoMalfatti/main/imagens/cardPitchYouTube1280.png" />
-
-<br />
-
-## 📌 Atualmente estou :
-
-### => Trabalhando como Instrutor
-
-### => IGTI - Instituto de Gestão da Informação
-
-### => período : Noturno | local: Remoto | modelo: PJ
-
-### => <a href="https://www.igti.com.br/bootcamp/programador-software-iniciante">Bootcamp Programador(a) de Software Inicante</a>
 
 ### => Tecnologias que eu uso no meu dia :
 
@@ -80,7 +62,9 @@
 
 <br/>
 
-## 💻 Portfólio > 📂 Meus Projetos de 2021 :
+## 📂 Meus Projetos de 2024 :
+
+## 📂 Meus Projetos de 2021 :
 
 <h3>
   ⚙  Projeto Instalura
@@ -372,55 +356,3 @@
 <img height="200em" src="https://raw.githubusercontent.com/DiogoMalfatti/DiogoMalfatti/main/imagens/wildbeast1280.png" />
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=diogomalfatti&repo=wildbeast)](https://github.com/DiogoMalfatti/wildbeast)
-
-#
-
-<h3>
-  ⚙  Projeto Meu PortFólio
-</h3>
-<h3>
-  <a href="https://malfatti-portifolio.herokuapp.com/"> 🌎 https://malfatti-portifolio.herokuapp.com/</a>
-
-⚠ Este projeto está encerrado não receberá novas atualizações.
-
-</h3>
-
-### Tecnologias usadas no Front End
-
-<br />
-
-<img align="center" alt="html5"
-  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img align="center" alt="css3"
-  src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img align="center" alt="styled-components"
-  src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
-<img align="center" alt="js"
-  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-
-<img align="center" alt="react"
-  src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-
-### Tecnologias usadas no Back End
-
-<br />
-
-<img align="center" alt="js"
-  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img align="center" alt="nodejs"
-  src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img align="center" alt="expressjs"
-  src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-<img align="center" alt="mongodb"
-  src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-
-<img align="center" alt="heroku"
-  src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
-
-<br />
-
-<img height="200em" src="https://raw.githubusercontent.com/DiogoMalfatti/DiogoMalfatti/main/imagens/myPortifolio1280.png" />
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=diogomalfatti&repo=my-portifolio)](https://github.com/DiogoMalfatti/my-portifolio)
-
-#
