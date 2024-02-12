@@ -1,4 +1,4 @@
-# Olá PessoAll ! Eu sou o Diogo Malfatti 👋
+# Olá Pessoal ! Eu sou o Diogo Malfatti 👋
 
 ### Eu sou Desenvolvedor Full Stack | Professor Tutor
 
