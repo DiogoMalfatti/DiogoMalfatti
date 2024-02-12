@@ -2,13 +2,13 @@
 
 ### Eu sou Desenvolvedor Full Stack | Professor Tutor
 
-### Formado como Tecnólogo em Gestão de Tecnologia da Informação
-
 <h3>Atualmente cursando
   <a href=# >
     Pós-Graduação em Desenvolvimento Full Stack
   </a>
 </h3>
+
+### Formado como Tecnólogo em Gestão de Tecnologia da Informação
 
 ### Sejam bem vindos ao meu Portfólio
 
