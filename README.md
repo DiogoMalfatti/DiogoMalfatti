@@ -1,8 +1,8 @@
-# Olá PessoAll ! Eu sou o <b><span style="color: #00ffff ">Diogo Malfatti</span></b> 👋
+# Olá PessoAll ! Eu sou o Diogo Malfatti 👋
 
-### Eu sou Desenvolvedor <span style="color:#00ffff "><b>Full Stack</b></span> | <span style ="color: #00ffff "><b>Professor Tutor</b></span>
+### Eu sou Desenvolvedor Full Stack | Professor Tutor
 
-### Formado como Tecnólogo em Gestão de <span style="color:#00ffff "><b>Tecnologia da Informação</b></span>
+### Formado como Tecnólogo em Gestão de Tecnologia da Informação
 
 <h3>Atualmente cursando
   <a href=# >
