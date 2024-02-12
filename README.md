@@ -14,12 +14,6 @@
 
 ### ✔ OpenToWork 📳 
 
-<h3>
-  <a href="https://github.com/DiogoMalfatti/DiogoMalfatti/blob/main/CV/CV_Front_DiogoMalfatti_v1abr22.pdf" download target="blank">
-    📥 CV_Front_DiogoMalfatti_v1abr22.pdf - atualizar cv !!
-  </a>
-</h3>
-
 <br />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diogomalfatti/)
