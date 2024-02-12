@@ -10,9 +10,9 @@
   </a>
 </h3>
 
-### Sejam bem vindos ao meu <span style="color:#00ffff "><b>Portfólio</b></span>
+### Sejam bem vindos ao meu Portfólio
 
-### ✔ <span style="color:#008000 ">OpenToWork</span> 📳 
+### ✔ OpenToWork 📳 
 <br />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diogomalfatti/)
