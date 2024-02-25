@@ -36,6 +36,30 @@
 ## 📂 Meus Projetos de 2024 :
 
 <h3>
+  ⚙  Animais Fantásticos
+</h3>
+<h3>
+  <a href="https://diogomalfatti.github.io/animaisFantasticos/"> 🌎 https://diogomalfatti.github.io/animaisFantasticos/</a>
+</h3>
+
+<br />
+
+<img align="center" alt="html5"
+  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img align="center" alt="css3"
+  src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img align="center" alt="js"
+  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+
+<br />
+
+<img height="200em" src="https://raw.githubusercontent.com/DiogoMalfatti/DiogoMalfatti/main/imagens/instalura1280.png" />
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=diogomalfatti&repo=animaisFantasticos)](https://github.com/DiogoMalfatti/animaisFantasticos)
+
+#
+
+<h3>
   ⚙  Projeto API-Rest Certificação de Estudante
 </h3>
 
