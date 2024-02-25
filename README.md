@@ -50,8 +50,14 @@
   src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img align="center" alt="js"
   src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img align="center" alt="github pages"
-  src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white" />
+<img align="center" alt="eslint"
+  src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white" />
+<img align="center" alt="node package modules"
+  src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" />
+<img align="center" alt="babel"
+  src="https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black" />
+<img align="center" alt="webpack"
+  src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black" />
 
 <br />
 
