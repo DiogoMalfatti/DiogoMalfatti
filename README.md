@@ -67,7 +67,7 @@
 
 <br />
 
-<img height="200em" src="https://github.com/DiogoMalfatti/animaisFantasticos/blob/main/img/animaisFantasticos.png" />
+<img height="215em" src="https://github.com/DiogoMalfatti/animaisFantasticos/blob/main/img/animaisFantasticos.png" />
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=diogomalfatti&repo=animaisFantasticos)](https://github.com/DiogoMalfatti/animaisFantasticos)
 
@@ -96,7 +96,7 @@
 
 <br />
 
-<img height="200em" src="https://github.com/DiogoMalfatti/certificationStudents/blob/main/.mvn/wrapper/assets/images/nlwspringproject.png" />
+<img height="225em" src="https://github.com/DiogoMalfatti/certificationStudents/blob/main/.mvn/wrapper/assets/images/nlwspringproject.png" />
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=diogomalfatti&repo=certificationStudents)](https://github.com/DiogoMalfatti/certificationStudents)
 
