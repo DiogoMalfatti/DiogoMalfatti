@@ -60,7 +60,7 @@
 
 <img height="200em" src="https://github.com/DiogoMalfatti/certificationStudents/blob/main/.mvn/wrapper/assets/images/nlwspringproject.png" />
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=diogomalfatti&repo=instalura)](https://github.com/DiogoMalfatti/instalura)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=diogomalfatti&repo=certificationStudents)](https://github.com/DiogoMalfatti/certificationStudents)
 
 ## 📂 Meus Projetos de 2021 :
 
