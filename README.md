@@ -55,7 +55,7 @@
 
 <br />
 
-<img height="200em" src="https://raw.githubusercontent.com/DiogoMalfatti/DiogoMalfatti/main/imagens/instalura1280.png" />
+<img height="200em" src="https://github.com/DiogoMalfatti/animaisFantasticos/blob/main/img/animaisFantasticos.png" />
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=diogomalfatti&repo=animaisFantasticos)](https://github.com/DiogoMalfatti/animaisFantasticos)
 
