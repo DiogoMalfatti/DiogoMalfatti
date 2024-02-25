@@ -62,8 +62,6 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=diogomalfatti&repo=certificationStudents)](https://github.com/DiogoMalfatti/certificationStudents)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=diogomalfatti&repo=certificationStudents)](https://github.com/DiogoMalfatti/certificationStudents)
-
 ## 📂 Meus Projetos de 2021 :
 
 <h3>
