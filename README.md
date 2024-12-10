@@ -1,6 +1,6 @@
 # Olá Pessoal ! Eu sou o Diogo Malfatti 👋
 
-### Eu sou Desenvolvedor Full Stack | Professor Tutor
+### Eu sou Desenvolvedor Front End React | Professor Tutor Desenvolvedor Web
 
 <h3>Atualmente cursando
   <a href=# >
@@ -33,7 +33,7 @@
 
 <br/>
 
-## 📂 Meus Projetos de 2024 :
+## 📂 Meus Projetos :
 
 <h3>
   ⚙  Animais Fantásticos
@@ -103,7 +103,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=diogomalfatti&repo=certificationStudents)](https://github.com/DiogoMalfatti/certificationStudents)
 
-## 📂 Meus Projetos de 2021 :
+#
 
 <h3>
   ⚙  Projeto Instalura
