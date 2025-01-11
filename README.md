@@ -35,6 +35,38 @@
 ## 📂 Meus Projetos :
 
 <h3>
+  ⚙  Ranek Produtos
+</h3>
+<h3>
+  <a href="https://ranek.vercel.app/"> 🌎 https://ranek.vercel.app/</a>
+</h3>
+
+<br />
+
+<img align="center" alt="html5"
+  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img align="center" alt="css3"
+  src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img align="center" alt="js"
+  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img align="center" alt="react"
+  src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img align="center" alt="vite"
+  src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" />
+<img align="center" alt="eslint"
+  src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white" />
+<img align="center" alt="node package modules"
+  src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" />
+<img align="center" alt="babel"
+  src="https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black" />
+<img align="center" alt="visual studio code"
+  src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<img align="center" alt="vercel"
+  src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+
+<br />
+
+<h3>
   ⚙  Animais Fantásticos
 </h3>
 <h3>
