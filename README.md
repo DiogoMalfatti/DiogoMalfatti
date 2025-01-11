@@ -73,7 +73,11 @@
   <a href="https://diogomalfatti.github.io/animaisFantasticos/"> 🌎 https://diogomalfatti.github.io/animaisFantasticos/</a>
 </h3>
 
-<br />
+<img height="215em" src="https://github.com/DiogoMalfatti/ranek/blob/main/src/assets/img/produtos2.png" />
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=diogomalfatti&repo=ranek)](https://github.com/DiogoMalfatti/ranek)
+
+#
 
 <img align="center" alt="html5"
   src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
