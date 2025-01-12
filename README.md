@@ -53,9 +53,9 @@
   src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img align="center" alt="vite"
   src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" />
+  
 <img align="center" alt="eslint"
   src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white" />
-  
 <img align="center" alt="node package modules"
   src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" />
 <img align="center" alt="babel"
@@ -108,6 +108,36 @@
 <img height="215em" src="https://github.com/DiogoMalfatti/animaisFantasticos/blob/main/img/animaisFantasticos.png" />
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=diogomalfatti&repo=animaisFantasticos)](https://github.com/DiogoMalfatti/animaisFantasticos)
+
+#
+
+<h3>
+  ⚙  Projeto DSList
+</h3>
+
+<br />
+
+<img align="center" alt="badge do java"
+  src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img align="center" alt="badge do spring"
+  src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+<img align="center" alt="badge do postgreSQL"
+  src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img align="center" alt="badge do hibernate"
+  src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white" />
+  
+<img align="center" alt="badge do docker"
+  src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+<img align="center" alt="badge do intellij IDE"
+  src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
+<img align="center" alt="badge do linux ubuntu"
+  src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+
+<br />
+
+<img height="215em" src="https://github.com/DiogoMalfatti/dslist/blob/main/src/main/resources/templates/img/intellijSpring.png" />
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=diogomalfatti&repo=dslist)](https://github.com/DiogoMalfatti/dslist)
 
 #
 
